@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/akashanand07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akashanand07" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/lofi girl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lofi girl" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/akash_027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akash_027" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/akashanand7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akash_027" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/akash_027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akash_027" height="30" width="40" /></a>
 </p>
 
