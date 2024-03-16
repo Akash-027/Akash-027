@@ -98,4 +98,4 @@
   <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> 
 </p>
 
-<center><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-027&show_icons=true&theme=dark&text_color=ecdfdf&locale=en&layout=compact&card_width=650&langs_count=10" alt="akash-027" /></center>
+<center><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-027&show_icons=true&theme=dark&text_color=ecdfdf&locale=en&layout=compact&card_width=650&langs_count=10" alt="akash-027" /></center>
