@@ -1,7 +1,7 @@
 ![MASTER](https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif)
 <h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">A Cloud Developer & wannabe Hackerman 🕶🗿 </h3>
-<img align="right" width="400" height="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+<img align="right" width="350" height="350" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 - 🔭 I’m currently working on **AWS Project** 
 
@@ -23,16 +23,17 @@
 <a href="https://www.youtube.com/c/lofi girl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lofi girl" height="30" width="40" /></a>
 </p>
 
+<img align="right" width="320" height="320" src="https://camo.githubusercontent.com/675a279cf04b10bcb358bbe2b71390d4d4bb7b2af43b00364b918ad4a01f0707/68747470733a2f2f6d656469612e6261616d626f6f7a6c652e636f6d2f75706c6f6164732f696d616765732f313131343137352f313637353038383033365f3134393639315f6769662d75726c2e676966">
+
 <h3 align="left">Programming Languages:</h3>
 <p align="left"> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" style="background-color:white;" width="40" height="40"/> </a> 
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" style="background-color:#F7EDED;" width="40" height="40"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
-<img align="right" width="400" height="400" src="https://camo.githubusercontent.com/675a279cf04b10bcb358bbe2b71390d4d4bb7b2af43b00364b918ad4a01f0707/68747470733a2f2f6d656469612e6261616d626f6f7a6c652e636f6d2f75706c6f6164732f696d616765732f313131343137352f313637353038383033365f3134393639315f6769662d75726c2e676966">
 
 <h3 align="left">TECH Tools:</h3>
 <p align="left"> 
@@ -45,7 +46,7 @@
 <h3 align="left">Full-Stack Development & Frameworks:</h3>
 <p align="left"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" style="background-color:white;" width="40" height="40"/> </a> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" style="background-color:#FFFFFF;" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" style="background-color:white;" width="40" height="40"/> </a> 
   <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> 
@@ -56,6 +57,8 @@
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" style="background-color:white;" width="40" height="40"/> </a> 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
 </p>
+
+<img align="right" width="320" height="320" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDh0ZncxaWExeWNkeG94emFib2E1NnVlaXZrczA4anRicGs4aGVjcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yOCzPNwpMMlFUlfLk8/giphy.gif">
 
 <h3 align="left">Mobile-App Development:</h3>
 <p align="left"> 
@@ -72,8 +75,6 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
 
-<img align="right" width="350" height="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDh0ZncxaWExeWNkeG94emFib2E1NnVlaXZrczA4anRicGs4aGVjcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yOCzPNwpMMlFUlfLk8/giphy.gif">
-
 <h3 align="left">Database & Visualization:</h3>
 <p align="left"> 
   <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> 
@@ -81,6 +82,8 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 </p>
+
+<img align="right" width="250" height="250" src="https://qph.cf2.quoracdn.net/main-qimg-4cd99970d7c5071b0f581bdd15ce5c56">
 
 <h3 align="left">DevOps / Cloud / Automation / BaaS:</h3>
 <p align="left"> 
