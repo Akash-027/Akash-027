@@ -23,7 +23,7 @@
 <a href="https://www.youtube.com/c/lofi girl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lofi girl" height="30" width="40" /></a>
 </p>
 
-<img align="right" width="320" height="320" src="https://camo.githubusercontent.com/675a279cf04b10bcb358bbe2b71390d4d4bb7b2af43b00364b918ad4a01f0707/68747470733a2f2f6d656469612e6261616d626f6f7a6c652e636f6d2f75706c6f6164732f696d616765732f313131343137352f313637353038383033365f3134393639315f6769662d75726c2e676966">
+<img align="right" width="270" height="270" src="https://camo.githubusercontent.com/675a279cf04b10bcb358bbe2b71390d4d4bb7b2af43b00364b918ad4a01f0707/68747470733a2f2f6d656469612e6261616d626f6f7a6c652e636f6d2f75706c6f6164732f696d616765732f313131343137352f313637353038383033365f3134393639315f6769662d75726c2e676966">
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left"> 
@@ -58,7 +58,7 @@
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
 </p>
 
-<img align="right" width="320" height="320" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDh0ZncxaWExeWNkeG94emFib2E1NnVlaXZrczA4anRicGs4aGVjcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yOCzPNwpMMlFUlfLk8/giphy.gif">
+<img align="right" width="270" height="270" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDh0ZncxaWExeWNkeG94emFib2E1NnVlaXZrczA4anRicGs4aGVjcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yOCzPNwpMMlFUlfLk8/giphy.gif">
 
 <h3 align="left">Mobile-App Development:</h3>
 <p align="left"> 
