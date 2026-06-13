@@ -27,7 +27,7 @@
 
 <h2 align="left">Programming Skills:</h2>
 
-<img align="right" width="250" height="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDh0ZncxaWExeWNkeG94emFib2E1NnVlaXZrczA4anRicGs4aGVjcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yOCzPNwpMMlFUlfLk8/giphy.gif">
+<img align="right" width="200" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDh0ZncxaWExeWNkeG94emFib2E1NnVlaXZrczA4anRicGs4aGVjcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yOCzPNwpMMlFUlfLk8/giphy.gif">
 
 <h3 align="left">Primary Techs:</h3>
 <p align="left"> 
@@ -48,6 +48,6 @@
   
 </p>
 
-<img align="right" width="200" height="200" src="https://qph.cf2.quoracdn.net/main-qimg-4cd99970d7c5071b0f581bdd15ce5c56">
+<img align="right" width="150" height="150" src="https://qph.cf2.quoracdn.net/main-qimg-4cd99970d7c5071b0f581bdd15ce5c56">
 
-<center><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-027&show_icons=true&theme=dark&text_color=ecdfdf&locale=en&layout=compact&card_width=500&langs_count=10" alt="akash-027" /></center>
+<center><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-027&show_icons=true&theme=dark&text_color=ecdfdf&locale=en&layout=compact&card_width=650&langs_count=10" alt="akash-027" /></center>
